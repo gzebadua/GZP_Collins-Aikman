@@ -1,0 +1,2609 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sphynx
+</name>
+</assembly>
+<members>
+<member name="F:Sphynx.sysError.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlBtnShowMenu">
+	<summary>
+pnlBtnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.btnShowMenu">
+	<summary>
+btnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlMenu">
+	<summary>
+pnlMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.rptMenu">
+	<summary>
+rptMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlErrorImage">
+	<summary>
+pnlErrorImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlInfo">
+	<summary>
+pnlInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lblErrorDescription">
+	<summary>
+lblErrorDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlLnkGoBack">
+	<summary>
+pnlLnkGoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lnkGoBack">
+	<summary>
+lnkGoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sysError.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlHeader">
+	<summary>
+pnlHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.lblWelcomeName">
+	<summary>
+lblWelcomeName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.lblWelcomeCompany">
+	<summary>
+lblWelcomeCompany control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlBtnShowMenu">
+	<summary>
+pnlBtnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.btnShowMenu">
+	<summary>
+btnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlMenu">
+	<summary>
+pnlMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.rptMenu">
+	<summary>
+rptMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.pnlTOS">
+	<summary>
+pnlTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.tos.lblTOS">
+	<summary>
+lblTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.pnlWelcome">
+	<summary>
+pnlWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.pnlSecretAnswer">
+	<summary>
+pnlSecretAnswer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.lblSecretQuestion">
+	<summary>
+lblSecretQuestion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.lblSecretAnswer">
+	<summary>
+lblSecretAnswer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.txtSecretAnswer">
+	<summary>
+txtSecretAnswer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.rfvSecretAnswer">
+	<summary>
+rfvSecretAnswer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.btnAnswer">
+	<summary>
+btnAnswer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.imgGhost">
+	<summary>
+imgGhost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.pnlDateTime">
+	<summary>
+pnlDateTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.lblWelcomeDate">
+	<summary>
+lblWelcomeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.answerSecretQuestion.lblWelcomeTime">
+	<summary>
+lblWelcomeTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlAccessDeniedFlash">
+	<summary>
+pnlAccessDeniedFlash control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlInfo">
+	<summary>
+pnlInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.lblNoRight">
+	<summary>
+lblNoRight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlLnkGoBack">
+	<summary>
+pnlLnkGoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.lnkGoBack">
+	<summary>
+lnkGoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.noRight.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlAccessDeniedFlash">
+	<summary>
+pnlAccessDeniedFlash control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlInfo">
+	<summary>
+pnlInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.lblSessionMessage">
+	<summary>
+lblSessionMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlLnkToLogin">
+	<summary>
+pnlLnkToLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.lnkLogin">
+	<summary>
+lnkLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.sessionEnd.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlHeader">
+	<summary>
+pnlHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblWelcomeName">
+	<summary>
+lblWelcomeName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblWelcomeCompany">
+	<summary>
+lblWelcomeCompany control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlBtnShowMenu">
+	<summary>
+pnlBtnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnShowMenu">
+	<summary>
+btnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlMenu">
+	<summary>
+pnlMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.rptMenu">
+	<summary>
+rptMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnShowAll">
+	<summary>
+btnShowAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnShowActive">
+	<summary>
+btnShowActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnShowInactive">
+	<summary>
+btnShowInactive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnShowbyNP">
+	<summary>
+btnShowbyNP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnAddUser">
+	<summary>
+btnAddUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnUpdateStatus">
+	<summary>
+btnUpdateStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblStatus">
+	<summary>
+lblStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlSetupUser">
+	<summary>
+pnlSetupUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnSetupCA">
+	<summary>
+btnSetupCA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnSetup">
+	<summary>
+btnSetup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlSearchName">
+	<summary>
+pnlSearchName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblSearchByNamePart">
+	<summary>
+lblSearchByNamePart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.txtNP">
+	<summary>
+txtNP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.btnGoSearch">
+	<summary>
+btnGoSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblErrorC">
+	<summary>
+lblErrorC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.gvUsers">
+	<summary>
+gvUsers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayUsers.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlWelcome">
+	<summary>
+pnlWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlLogin">
+	<summary>
+pnlLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblLoginInstructions">
+	<summary>
+lblLoginInstructions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.rfvUsername">
+	<summary>
+rfvUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblPassword">
+	<summary>
+lblPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.rfvPassword">
+	<summary>
+rfvPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblLostPassword">
+	<summary>
+lblLostPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lnkLostPassword">
+	<summary>
+lnkLostPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblWrongUP">
+	<summary>
+lblWrongUP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlLostPassword">
+	<summary>
+pnlLostPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblLostPasswordInstructions">
+	<summary>
+lblLostPasswordInstructions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblLostUsername">
+	<summary>
+lblLostUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.txtLostUser">
+	<summary>
+txtLostUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.btnGetMyPass">
+	<summary>
+btnGetMyPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlImages">
+	<summary>
+pnlImages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.imgLock">
+	<summary>
+imgLock control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.imgGhost">
+	<summary>
+imgGhost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlDateTime">
+	<summary>
+pnlDateTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblWelcomeDate">
+	<summary>
+lblWelcomeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblWelcomeTime">
+	<summary>
+lblWelcomeTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.reopen.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlWelcome">
+	<summary>
+pnlWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlLogin">
+	<summary>
+pnlLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblLoginInstructions">
+	<summary>
+lblLoginInstructions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.rfvUsername">
+	<summary>
+rfvUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblPassword">
+	<summary>
+lblPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.rfvPassword">
+	<summary>
+rfvPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblLostPassword">
+	<summary>
+lblLostPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lnkLostPassword">
+	<summary>
+lnkLostPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblWrongUP">
+	<summary>
+lblWrongUP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlLostPassword">
+	<summary>
+pnlLostPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblLostPasswordInstructions">
+	<summary>
+lblLostPasswordInstructions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblLostUsername">
+	<summary>
+lblLostUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.txtLostUser">
+	<summary>
+txtLostUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.btnGetMyPass">
+	<summary>
+btnGetMyPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlImages">
+	<summary>
+pnlImages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.imgLock">
+	<summary>
+imgLock control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.imgGhost">
+	<summary>
+imgGhost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlOOSCover">
+	<summary>
+pnlOOSCover control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlOOS">
+	<summary>
+pnlOOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblSystemOut">
+	<summary>
+lblSystemOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlDateTime">
+	<summary>
+pnlDateTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblWelcomeDate">
+	<summary>
+lblWelcomeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblWelcomeTime">
+	<summary>
+lblWelcomeTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.pnlReopen">
+	<summary>
+pnlReopen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.login.imgReopen">
+	<summary>
+imgReopen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.pnlHeader">
+	<summary>
+pnlHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.lblWelcomeName">
+	<summary>
+lblWelcomeName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.lblWelcomeCompany">
+	<summary>
+lblWelcomeCompany control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.pnlMenu">
+	<summary>
+pnlMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.rptMenu">
+	<summary>
+rptMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.main.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Sphynx.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Sphynx.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Sphynx.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Sphynx.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Sphynx.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Sphynx.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Sphynx.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sphynx.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Sphynx.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Sphynx.displayLang.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlHeader">
+	<summary>
+pnlHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblWelcomeName">
+	<summary>
+lblWelcomeName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblWelcomeCompany">
+	<summary>
+lblWelcomeCompany control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlBtnShowMenu">
+	<summary>
+pnlBtnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnShowMenu">
+	<summary>
+btnShowMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlMenu">
+	<summary>
+pnlMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.rptMenu">
+	<summary>
+rptMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlLogout">
+	<summary>
+pnlLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblLogout">
+	<summary>
+lblLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnShowAll">
+	<summary>
+btnShowAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnFilter">
+	<summary>
+btnFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnAddLanguage">
+	<summary>
+btnAddLanguage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnAddLabel">
+	<summary>
+btnAddLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlNewLang">
+	<summary>
+pnlNewLang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblSpecifyNewLang">
+	<summary>
+lblSpecifyNewLang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.txtNewLangID">
+	<summary>
+txtNewLangID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.rptLangName">
+	<summary>
+rptLangName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnSaveNewLang">
+	<summary>
+btnSaveNewLang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblLangAlreadyInUse">
+	<summary>
+lblLangAlreadyInUse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlNewLabel">
+	<summary>
+pnlNewLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblNewPage">
+	<summary>
+lblNewPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.txtNewPage">
+	<summary>
+txtNewPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblNewLabel">
+	<summary>
+lblNewLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.txtNewLabel">
+	<summary>
+txtNewLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnCreateNewLabel">
+	<summary>
+btnCreateNewLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblLabelAlreadyExists">
+	<summary>
+lblLabelAlreadyExists control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlData">
+	<summary>
+pnlData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlSearchName">
+	<summary>
+pnlSearchName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblSearchByNamePart">
+	<summary>
+lblSearchByNamePart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.txtNP">
+	<summary>
+txtNP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnGoSearch">
+	<summary>
+btnGoSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblErrorC">
+	<summary>
+lblErrorC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.gvLabels">
+	<summary>
+gvLabels control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlEdit">
+	<summary>
+pnlEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblLabel">
+	<summary>
+lblLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.rptLabels">
+	<summary>
+rptLabels control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnSaveLabel">
+	<summary>
+btnSaveLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnModify">
+	<summary>
+btnModify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnDelete">
+	<summary>
+btnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblSaveError">
+	<summary>
+lblSaveError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlDeleteWarning">
+	<summary>
+pnlDeleteWarning control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblDeleteWarning">
+	<summary>
+lblDeleteWarning control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnCancelDelete">
+	<summary>
+btnCancelDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.btnDeleteConfirmation">
+	<summary>
+btnDeleteConfirmation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.pnlFooter">
+	<summary>
+pnlFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lblShowCopyright">
+	<summary>
+lblShowCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.displayLang.lnkTOS">
+	<summary>
+lnkTOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.updatePanel1">
+	<summary>
+updatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.pnlImgHeader">
+	<summary>
+pnlImgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.imgHeader">
+	<summary>
+imgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.pnlFlags">
+	<summary>
+pnlFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.rptFlags">
+	<summary>
+rptFlags control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.pnlWelcome">
+	<summary>
+pnlWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.pnlResetPassword">
+	<summary>
+pnlResetPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblInstructions">
+	<summary>
+lblInstructions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblPassword">
+	<summary>
+lblPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.rfvPassword">
+	<summary>
+rfvPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblRepeatPassword">
+	<summary>
+lblRepeatPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.txtRepeatPassword">
+	<summary>
+txtRepeatPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.rfvRepeatPassword">
+	<summary>
+rfvRepeatPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.cvPassword">
+	<summary>
+cvPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblWrongPass">
+	<summary>
+lblWrongPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.btnSaveNewPassword">
+	<summary>
+btnSaveNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.imgGhost">
+	<summary>
+imgGhost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.pnlDateTime">
+	<summary>
+pnlDateTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblWelcomeDate">
+	<summary>
+lblWelcomeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Sphynx.resetPassword.lblWelcomeTime">
+	<summary>
+lblWelcomeTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

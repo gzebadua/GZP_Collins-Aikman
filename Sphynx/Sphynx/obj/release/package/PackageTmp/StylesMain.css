@@ -1,0 +1,203 @@
+
+body {
+ background-color: White;
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+ font-weight: Normal;
+ letter-spacing: Normal;
+ text-transform: None;
+ word-spacing: Normal;
+ }
+
+
+.hlink:link { 
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ font-weight: Bold;
+ color: #00227c;
+ } 
+  
+.hlink:visited { 
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ font-weight: Bold;
+ text-decoration: None;
+ color: #00227c;
+ } 
+  
+.hlink:active { 
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ font-weight: Bold;
+ text-decoration: None;
+ color: #00227c;
+ } 
+  
+.hlink:hover { 
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ font-weight: Bolder;
+ color: #FF0000;
+ }
+  
+.smalllabel {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ background-color: Transparent;
+ color: #000000;
+ } 
+
+ 
+.largelabel {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 12px;
+ text-decoration: None;
+ background-color: Transparent;
+ color: #000000;
+ } 
+ 
+.txtbox {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ } 
+
+.usernametxtbox {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-transform:lowercase;
+ } 
+
+.ddlist {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ letter-spacing: Normal;
+ text-transform: None;
+ word-spacing: Normal;
+ background-color: Transparent;
+ color: #000000;
+ }
+ 
+.button {
+ font-family: Verdana, Arial, Helvetica;
+ background-color:Gainsboro;
+ color: #000000;
+ vertical-align: Middle;
+}
+
+.buttonmenu {
+ font-family: Verdana, Arial, Helvetica;
+ background-color: #C0C0FF;
+ border-width: 1px;
+ border-color: MidnightBlue;
+ border-style: Solid;
+ color: #000000;
+ }
+ 
+.headertable {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 12px;
+ font-weight: Bold;
+ text-align: Center;
+ background-color: #00227b;
+ color: White;
+ }
+ 
+.logoutlink:link {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ background-color: Transparent;
+ color: #B8C1DA;
+ font-weight: Bold;
+ } 
+ 
+.logoutlink:visited {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ background-color: Transparent;
+ color: #B8C1DA;
+ font-weight: Bold;
+ }
+
+.logout:active {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ background-color: Transparent;
+ color: #B8C1DA;
+ font-weight: Bold;
+ }
+
+.logout:hover{
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ background-color: Transparent;
+ color: #ffffff;
+ font-weight: Bold;
+ }  
+ 
+.headersystem {
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 12px;
+ font-weight: Bold;
+ text-align: Center;
+ vertical-align: Middle;
+ color: White;
+ }
+
+.labelcentered {
+ font-family: Verdana, Arial, Helvetica;
+ text-align: Center;
+ vertical-align: Middle;
+ }
+ 
+.labelrighted {
+ font-family: Verdana, Arial, Helvetica;
+ text-align: Right;
+ vertical-align: Middle;
+ }
+ 
+.linx:link{
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+ text-decoration: None;
+ color: White;
+ font-weight: Bold;
+}
+
+.linx:visited{
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+ text-decoration: None;
+ color: White;
+ font-weight: Bold;
+}
+
+.linx:active {
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+ text-decoration: None;
+ color: White;
+ font-weight: Bold;
+}
+
+.linx:hover{
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 12px;
+ text-decoration: None;
+ color: #00227c;
+ font-weight: Bold;
+}
+
+.menudesc{
+ font-family: Verdana, Arial, Helvetica;
+ font-size: 10px;
+ text-decoration: None;
+ color: White;
+}
+

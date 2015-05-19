@@ -1,0 +1,18 @@
+<asp:DataGrid id="dgLabels" runat="server" Font-Size="XX-Small" Font-Names="Verdana"
+							        DataKeyField="spage" AllowPaging="True" Pagesize="15">
+							        <AlternatingItemStyle BackColor="Lavender"></AlternatingItemStyle>
+							        <HeaderStyle Font-Bold="True" ForeColor="White" BackColor="#000066"></HeaderStyle>
+							        <Columns>
+								        <asp:TemplateColumn>
+									        <ItemStyle HorizontalAlign="center"></ItemStyle>
+									        <ItemTemplate>
+										        <asp:LinkButton id="lnkEdit" runat="server" Font-Size="XX-Small" CommandName="Edit" Cssclass="hlink">lnkEdit</asp:LinkButton>
+										        &nbsp;
+										        /
+										        &nbsp;
+										        <asp:LinkButton id="lnkDelete" runat="server" Font-Size="XX-Small" CommandName="Delete" Cssclass="hlink">lnkDelete</asp:LinkButton>
+									        </ItemTemplate>
+								        </asp:TemplateColumn>
+							        </Columns>
+							        <PagerStyle Mode="NumericPages"></PagerStyle>
+						        </asp:DataGrid>

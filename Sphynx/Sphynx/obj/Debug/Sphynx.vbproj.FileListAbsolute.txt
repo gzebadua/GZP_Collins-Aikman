@@ -1,0 +1,9 @@
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\bin\Sphynx.dll
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\bin\Sphynx.pdb
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\bin\Sphynx.xml
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\obj\Debug\Sphynx.Resources.resources
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\obj\Debug\Sphynx.vbproj.GenerateResource.Cache
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\obj\Debug\Sphynx.dll
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\obj\Debug\Sphynx.xml
+C:\Users\NeMo\Documents\Proyectos\Sphynx\Sphynx\obj\Debug\Sphynx.pdb

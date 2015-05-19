@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sphynx">
+</Property><Property Name="Solution File" Value="E:\Memo\Sphynx\Sphynx\Sphynx.sln">
+</Property><Property Name="User Options File" Value="E:\Memo\Sphynx\Sphynx\Sphynx.suo">
+</Property><Property Name="Date" Value="Monday, March 05, 2012">
+</Property><Property Name="Time" Value="20:50 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sphynx.sln" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\Sphynx.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sphynx.suo" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\Sphynx.suo">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="Sphynx.vbproj" Description="Project file successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\Sphynx.vbproj">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="Sphynx.vbproj.user" Description="Project user file successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\Sphynx.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="answerSecretQuestion.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\answerSecretQuestion.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="answerSecretQuestion.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\answerSecretQuestion.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="displayLang.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\displayLang.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="displayLang.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\displayLang.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="displayUsers.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\displayUsers.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="displayUsers.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\displayUsers.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="login.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\login.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="login.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\login.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="main.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\main.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="main.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\main.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\MyExtensions\MyWebExtension.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\MyExtensions\MyWebExtension.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="noRight.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\noRight.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="noRight.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\noRight.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="reopen.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\reopen.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="reopen.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\reopen.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="resetPassword.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\resetPassword.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="resetPassword.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\resetPassword.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="sessionEnd.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\sessionEnd.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="sessionEnd.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\sessionEnd.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="sysError.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\sysError.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="sysError.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\sysError.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="tos.aspx.designer.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\tos.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="tos.aspx.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\tos.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="Utilities.vb" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\Utilities.vb">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\noright.fla" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\noright.fla">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\Application.myapp" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\Settings.settings" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="answerSecretQuestion.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\answerSecretQuestion.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="displayLang.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\displayLang.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="displayUsers.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\displayUsers.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\backgrounds\transparentPixel.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\backgrounds\transparentPixel.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\bits.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\bits.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\excel.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\excel.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\excelDoc.jpg" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\excelDoc.jpg">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\ardz.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\ardz.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\areg.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\areg.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\ariq.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\ariq.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\deat.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\deat.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\enau.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\enau.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\enca.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\enca.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\esar.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\esar.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\bg.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\bg.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\de.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\de.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\enus.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\enus.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\esbo.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\esbo.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\escr.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\escr.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\esmx.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\esmx.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\fi.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\fi.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\fr.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\fr.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\frbe.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\frbe.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\frca.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\frca.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\frlu.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\frlu.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\hi.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\hi.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\hr.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\hr.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\flags\it.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\flags\it.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\forecastIcon.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\forecastIcon.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\forecastIcon.jpg" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\forecastIcon.jpg">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\lightG.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\lightG.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\lightR.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\lightR.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\miniExcel.jpg" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\miniExcel.jpg">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\background.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\background.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\backgroundred.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\backgroundred.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\backgrounds\pixelMistyRose.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\backgrounds\pixelMistyRose.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\backgrounds\redPixel.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\backgrounds\redPixel.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\backgrounds\whitePixel.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\backgrounds\whitePixel.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\backgrounds\YellowPixel.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\backgrounds\YellowPixel.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\header.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\header.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\lock.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\lock.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\GhostInTheMachinery.jpg" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\GhostInTheMachinery.jpg">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\GhostInTheMachineryFadedOut.jpg" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\GhostInTheMachineryFadedOut.jpg">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\goarrow.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\goarrow.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r1_c1.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r1_c1.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r1_c1.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r1_c1.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r1_c2.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r1_c2.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r1_c2.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r1_c2.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r1_c3.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r1_c3.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r1_c3.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r1_c3.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r2_c1.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r2_c1.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r2_c1.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r2_c1.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r2_c2.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r2_c2.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r2_c2.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r2_c2.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r2_c3.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r2_c3.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r2_c3.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r2_c3.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r3_c1.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r3_c1.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r3_c1.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r3_c1.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r3_c2.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r3_c2.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r3_c2.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r3_c2.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r3_c3.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r3_c3.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\menu_r3_c3.png" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\menu_r3_c3.png">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\menu\spacer.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\menu\spacer.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="images\moreInfo.gif" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\images\moreInfo.gif">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="index.html" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\index.html">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="login.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\login.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="main.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\main.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="noRight.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\noRight.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="reopen.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\reopen.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="resetPassword.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\resetPassword.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="sessionEnd.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\sessionEnd.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="StylesMain.css" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\StylesMain.css">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="sysError.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\sysError.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="tos.aspx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\tos.aspx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="Web.config" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="My Project\Resources.resx" Description="File successfully backed up as E:\Memo\Sphynx\Sphynx\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="Sphynx.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sphynx" Source="Sphynx.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sphynx.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sphynx.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sphynx" Source="Sphynx.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
